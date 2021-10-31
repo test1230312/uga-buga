@@ -15,3 +15,7 @@ int main(void)
   printf("Hello, world!");
 }
 ```
+
+```bash
+echo "Hello world"
+```
