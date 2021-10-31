@@ -1,14 +1,9 @@
-# uga-buga
+# Changed localy using git on linux
 
-I am changing this readme and adding lines to it.
+```py
+import random
 
+print("Hello world!")
 
-I use arch btw
-
-I am using vim also
-o
-
-
-
-123
-
+print(random.randint(0, 10))
+```
